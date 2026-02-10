@@ -121,12 +121,11 @@ This repository is written for:
 
 ## Disclaimer
 
-This repository documents an **independent, external AI product evaluation, operations, and governance project** conducted using publicly accessible interfaces.
 
-It does **not** represent internal systems, policies, data, metrics, or decisions of Google or the Gemini product team.
-
-All findings are observational, time-bound, and scoped to the evaluation methodology described in this repository.  
-No regulatory, legal, or clinical claims are made.
+This repository documents an independent, external AI system evaluation, operations, and governance reference implementation conducted using publicly accessible interfaces.
+It does not represent internal systems, policies, data, metrics, or decision-making processes of Google or the Gemini product team.
+All findings are observational, time-bound, and scoped strictly to the evaluation methodology described here.
+This work is intended as a demonstrative governance architecture for large-scale LLM-based systems and does not constitute regulatory, legal, or clinical claims.
 
 ---
 
