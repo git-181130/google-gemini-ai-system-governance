@@ -1,9 +1,9 @@
 
-# Gemini EvalOps – Safety-Critical AI System Governance
-Safety-Critical EvalOps, Operations, and Governance case studies for a large-scale AI system.
+# Gemini EvalOps – Safety-Critical Behaviour and Trust Integrity AI System Governance 
+Safety-Critical Behaviour and Trust Integrity EvalOps, Operations, and Governance case studies for a large-scale AI system.
 
 
-This repository documents an independent, external **AI Product Evaluation, Operations, and Governance** project focused on **safety-critical behavior** in a large-scale AI system.
+This repository documents an independent, external **AI Product Evaluation, Operations, and Governance** project focused on **safety-critical behaviour** in a large-scale AI system.
 
 The work demonstrates how **EvalOps**, **AI Product Operations**, and **Governance** function together to identify risk, manage incidents, support ship / no-ship decisions, and enable continuous improvement for a deployed AI system.
 
@@ -81,10 +81,10 @@ Recommended reading order:
    High-level context, objectives, and outcomes.
 
 2. **EvalOps**  
-   Defines what constitutes unsafe behavior, how severity is assigned, and how failures are classified.
+   Defines what constitutes unsafe behaviour, how severity is assigned, and how failures are classified.
 
 3. **Operations**  
-   Shows how evaluation findings are monitored, escalated, analyzed, and translated into decisions.
+   Shows how evaluation findings are monitored, escalated, analysed, and translated into decisions.
 
 4. **Governance**  
    Establishes severity authority, release gating, and audit discipline.
@@ -135,7 +135,7 @@ No regulatory, legal, or clinical claims are made.
 Project Status: Complete  
 EvalOps Framework: Frozen  
 Operations & Governance: Executed and documented  
-Case Studies: Finalized  
+Case Studies: Finalised  
 
 This repository is published as a **reference implementation and portfolio artifact** demonstrating AI System Governance in practice.
 
